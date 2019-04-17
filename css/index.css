@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	paddin: 27px;
+	padding: 27px; /* le faltaba la g */
 }
 
 header img {
